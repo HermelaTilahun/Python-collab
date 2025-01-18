@@ -1,4 +1,4 @@
-# Python-collab
+# Python Collab
 ## Python-project-collab
 #1) Create a simple Python program application that does the following:
 
